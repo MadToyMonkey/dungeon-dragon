@@ -11,6 +11,16 @@
             "id": "1720465e9531b560",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "The Forgotten Hold v1.4.pdf"
+              }
+            }
+          },
+          {
+            "id": "4ed6d4219aaaa3b0",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Hazlik Gotta Go.md",
@@ -19,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +103,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -146,10 +157,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1720465e9531b560",
+  "active": "24b76add8a349b22",
   "lastOpenFiles": [
-    "Hazlan.md",
+    "The Forgottn Hold.png",
+    "The Forgotten Hold v1.4.pdf",
     "Hazlik Gotta Go.md",
+    "Stonehill Blues v1.1.pdf",
+    "Hazlan.md",
+    "Strange Lights v1.1.pdf",
     "Campaigns/Spell Quest.md",
     "PCs/Nibosa Milnor.md"
   ]
