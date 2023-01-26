@@ -17,5 +17,5 @@
 
 ### Plot Points
 - [[The Dragon Guard]]
-- Hazlik Gotta Go
-- Through the Mists
+- [[Hazlik Gotta Go]]
+- [[Through the Mists]]
