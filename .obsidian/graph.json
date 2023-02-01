@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#DhawntaysInferno",
@@ -33,6 +33,13 @@
       "color": {
         "a": 1,
         "rgb": 16002039
+      }
+    },
+    {
+      "query": "tag:#RedStarRising",
+      "color": {
+        "a": 1,
+        "rgb": 9896465
       }
     }
   ],
