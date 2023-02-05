@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Hazlan.md",
+=======
+                "file": "PCs/Nibosa Milnor.md",
+>>>>>>> 4ef975e97d802ea99edeab6fa83d3d309a415395
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Hazlan.md",
+=======
+                "file": "PCs/Nibosa Milnor.md",
+>>>>>>> 4ef975e97d802ea99edeab6fa83d3d309a415395
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Hazlan.md",
+=======
+                "file": "PCs/Nibosa Milnor.md",
+>>>>>>> 4ef975e97d802ea99edeab6fa83d3d309a415395
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,6 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Hazlan.md"
               }
             }
@@ -135,14 +148,19 @@
             "state": {
               "type": "rpgm-creator-view",
               "state": {}
+=======
+                "file": "PCs/Nibosa Milnor.md"
+              }
+>>>>>>> 4ef975e97d802ea99edeab6fa83d3d309a415395
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,6 +173,7 @@
       "rpg-manager:RPG Manager": false
     }
   },
+<<<<<<< HEAD
   "active": "c9c068275625d21f",
   "lastOpenFiles": [
     "Campaigns/Spell Quest/Spell Quest.md",
@@ -167,5 +186,19 @@
     "Campaigns/Spell Quest/Acts/Hunting Hazlik.md",
     "Campaigns/Spell Quest/Clues/Library Tarokka Deck.md",
     "Campaigns/Spell Quest/Clues/Hazlik and the Border.md"
+=======
+  "active": "947ff56f130a5114",
+  "lastOpenFiles": [
+    "Through the Mists.md",
+    "The Butcher Farm.md",
+    "Hazlan.md",
+    "Foulest Spirits.md",
+    "Campaigns/Red Star Rising.md",
+    "The Boy on the Branch.md",
+    "The Butcher House.md",
+    "Untitled.canvas",
+    "Bosun.md",
+    "Classes/Soulknife.md"
+>>>>>>> 4ef975e97d802ea99edeab6fa83d3d309a415395
   ]
 }
