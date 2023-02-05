@@ -1,6 +1,6 @@
 ---
 alias: []
-tags: []
+tags: [SpellQuest]
 ---
 ```RpgManagerData
 plot: 
@@ -19,8 +19,8 @@ plot:
     return: 
     change: 
 data: 
-  synopsis: 
-  complete: false
+  synopsis: "After speaking with a mysterious, shadowy figure, the party is teleported to the Domains of Dread. They escape the Mists and find themselves in the Domain Doomed by Magic, Hazlan."
+  complete: true
 ```
 ```RpgManager
 models: 
@@ -38,11 +38,11 @@ models:
       relationship: "hierarchy"
 ```
 ```RpgManagerID
-### DO NOT EDIT MANUALLY IF NOT INSTRUCTED TO DO SO ###
 type: 2
 campaignSettings: 0
-id: "535d0e65-9d81-421f-9984-47142d12a4dc"
-campaignId: "c67248a5-66f5-490a-a13f-96c0f30fcd25"
-parentId: "c67248a5-66f5-490a-a13f-96c0f30fcd25"
+id: "48e4be67-4a7e-4760-aed2-2f4e89d29ace"
+campaignId: "1c445af5-36d3-42b4-9873-d00d859f5aff"
+parentId: "1c445af5-36d3-42b4-9873-d00d859f5aff"
 positionInParent: 1
 ```
+[[Hunting Hazlik]] [[Escaping Hazlan]] 
