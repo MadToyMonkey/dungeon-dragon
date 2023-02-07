@@ -1,25 +1,27 @@
 {
   "main": {
-    "id": "b565128522e21ba5",
+    "id": "ea9175fda254aa5d",
     "type": "split",
     "children": [
       {
-        "id": "17f6ceba6bc3a71f",
+        "id": "686b17d255b74778",
         "type": "tabs",
         "children": [
           {
-            "id": "947ff56f130a5114",
+            "id": "081d250006c1b46c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad32a39633dd177a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
               "state": {
-<<<<<<< HEAD
-                "file": "Hazlan.md",
-=======
-                "file": "PCs/Nibosa Milnor.md",
->>>>>>> 4ef975e97d802ea99edeab6fa83d3d309a415395
-                "mode": "source",
-                "source": false
+                "file": "The Forgotten Hold v1.4.pdf"
               }
             }
           }
@@ -29,15 +31,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ee0c529651d9738a",
+    "id": "ac772f1e63f9591a",
     "type": "split",
     "children": [
       {
-        "id": "fa8279eb875d2761",
+        "id": "3c6b0f470aa6e475",
         "type": "tabs",
         "children": [
           {
-            "id": "24b76add8a349b22",
+            "id": "58fed10497dce418",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,12 +49,12 @@
             }
           },
           {
-            "id": "46a274fe17b53172",
+            "id": "d5c3eded17ca5a09",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#RedStarRising",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +64,7 @@
             }
           },
           {
-            "id": "f157bfd80e977817",
+            "id": "c71ef5b1e078238b",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -76,52 +78,42 @@
     "width": 300
   },
   "right": {
-    "id": "a49b00f5aa2b23ed",
+    "id": "9adadaa6f0b810cd",
     "type": "split",
     "children": [
       {
-        "id": "da8b9d56e498a720",
+        "id": "63ffb5d9a4f6e8b6",
         "type": "tabs",
         "children": [
           {
-            "id": "89e2683c64bc9211",
+            "id": "c91591862731218b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Hazlan.md",
-=======
-                "file": "PCs/Nibosa Milnor.md",
->>>>>>> 4ef975e97d802ea99edeab6fa83d3d309a415395
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "687514e4cf5d0d5a",
+            "id": "5430485b947f5bc9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Hazlan.md",
-=======
-                "file": "PCs/Nibosa Milnor.md",
->>>>>>> 4ef975e97d802ea99edeab6fa83d3d309a415395
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "727e9c4d52b14824",
+            "id": "7926bf401bd4511c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,30 +124,23 @@
             }
           },
           {
-            "id": "b0af4143c2c6bc26",
+            "id": "061a2f3c7e9f1380",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Hazlan.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "c9c068275625d21f",
+            "id": "6c55f5d737865b72",
             "type": "leaf",
             "state": {
               "type": "rpgm-creator-view",
               "state": {}
-=======
-                "file": "PCs/Nibosa Milnor.md"
-              }
->>>>>>> 4ef975e97d802ea99edeab6fa83d3d309a415395
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -164,41 +149,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "rpg-manager:RPG Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "rpg-manager:RPG Manager": false
+      "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "c9c068275625d21f",
+  "active": "081d250006c1b46c",
   "lastOpenFiles": [
+    "Campaigns/Spell Quest/Characters/Hubert Dresilkin.md",
+    "Campaigns/Spell Quest/Locations/The Red Keep.md",
+    "The Forgotten Hold v1.4.pdf",
+    "Images/The Forgottn Hold.png",
+    "Images/Pasted image 20230124204820.png",
     "Campaigns/Spell Quest/Spell Quest.md",
-    "Hazlan.md",
-    "Campaigns/Spell Quest/Adventures/The Carnival Has Come to Town.md",
-    "Campaigns/Spell Quest/Spell Quest Overview.md",
-    "Campaigns/Spell Quest/NonPlayerCharacters/Hazlik.md",
     "Campaigns/Spell Quest/Sessions/Feb-9-2023.md",
-    "Campaigns/Spell Quest/Scenes/Kill Hazlik.md",
-    "Campaigns/Spell Quest/Acts/Hunting Hazlik.md",
-    "Campaigns/Spell Quest/Clues/Library Tarokka Deck.md",
-    "Campaigns/Spell Quest/Clues/Hazlik and the Border.md"
-=======
-  "active": "947ff56f130a5114",
-  "lastOpenFiles": [
-    "Through the Mists.md",
-    "The Butcher Farm.md",
-    "Hazlan.md",
-    "Foulest Spirits.md",
-    "Campaigns/Red Star Rising.md",
-    "The Boy on the Branch.md",
-    "The Butcher House.md",
-    "Untitled.canvas",
-    "Bosun.md",
-    "Classes/Soulknife.md"
->>>>>>> 4ef975e97d802ea99edeab6fa83d3d309a415395
+    "Campaigns/Spell Quest/Subplots/The Gem.md",
+    "Campaigns/Spell Quest/Characters/Bombam Stormtoe.md",
+    "Campaigns/Spell Quest/Subplots/The Fool.md"
   ]
 }

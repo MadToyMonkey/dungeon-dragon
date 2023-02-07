@@ -28,7 +28,7 @@ models:
 ```
 ---
 ### Adventure Notes
- - 
+ - Darklord: [[Hazlik]]
 
 ---
 ```RpgManager

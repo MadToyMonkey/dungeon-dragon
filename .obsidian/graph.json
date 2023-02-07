@@ -1,67 +1,22 @@
 {
-<<<<<<< HEAD
   "collapse-filter": false,
-  "search": "tag:#SpellQuest",
-=======
-  "collapse-filter": true,
   "search": "",
->>>>>>> 4ef975e97d802ea99edeab6fa83d3d309a415395
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#DhawntaysInferno",
-      "color": {
-        "a": 1,
-        "rgb": 14247432
-      }
-    },
-    {
-      "query": "tag:#Initiative",
-      "color": {
-        "a": 1,
-        "rgb": 6710504
-      }
-    },
-    {
-      "query": "tag:#SpellQuest",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:#Ahhhhh",
-      "color": {
-        "a": 1,
-        "rgb": 16002039
-      }
-    },
-    {
-      "query": "tag:#RedStarRising",
-      "color": {
-        "a": 1,
-        "rgb": 9896465
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 0.7132754626224449,
-=======
-  "scale": 0.713275462622443,
->>>>>>> 4ef975e97d802ea99edeab6fa83d3d309a415395
-  "close": true
+  "scale": 0.713275462622442,
+  "close": false
 }

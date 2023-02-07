@@ -65,11 +65,11 @@ positionInParent: 0
 ```
 Players:
 - Kira -> [[Bosun]]
-- Jamie -> [[Faelynn]]
+- Jamie -> [[Faelynn Silentbeam]]
 - Kevin -> [[Karnon]]
-- Mike -> [[Bombam]]
-- Eli -> [[Hubert]]
-- Zach -> [[Tyraxis]]
+- Mike -> [[Bombam Stormtoe]]
+- Eli -> [[Hubert Dresilkin]]
+- Zach -> [[Tyraxis Silverscale]]
 
 Locations:
 - Faerun

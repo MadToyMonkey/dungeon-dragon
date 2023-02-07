@@ -6,16 +6,16 @@ tags: [SpellQuest]
 data: 
   synopsis: "Party will kill Hazlik"
   complete: false
-  sessionId: 
+  sessionId: "0d1cfb8c-eb38-4c98-8a98-51d4aa396e05"
   action: 
-  trigger: 
+  trigger: "Party finds Hazlik"
   date: 
   sceneType: "combat"
   isActedUpon: true
   duration: 0
   durations: []
   storyCircleStage: 
-  positionInSession: 
+  positionInSession: 1
 ```
 ```RpgManager
 models: 

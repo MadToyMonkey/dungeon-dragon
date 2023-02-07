@@ -6,7 +6,7 @@ tags: [SpellQuest]
 data: 
   synopsis: "While rooting through the keep, the party could try to find a potential talisman"
   complete: false
-  sessionId: 
+  sessionId: "0d1cfb8c-eb38-4c98-8a98-51d4aa396e05"
   action: 
   trigger: 
   date: 
@@ -15,7 +15,7 @@ data:
   duration: 0
   durations: []
   storyCircleStage: 
-  positionInSession: 
+  positionInSession: 3
 ```
 ```RpgManager
 models: 
