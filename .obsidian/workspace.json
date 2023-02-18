@@ -4,24 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "686b17d255b74778",
+        "id": "15cc671a0b61cfa1",
         "type": "tabs",
         "children": [
           {
-            "id": "081d250006c1b46c",
+            "id": "c338df3827c103fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ad32a39633dd177a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "The Forgotten Hold v1.4.pdf"
+                "file": "Campaigns/Spell Quest/Locations/7 Workshop.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Campaigns/Spell Quest/Locations/7 Workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Campaigns/Spell Quest/Locations/7 Workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,11 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Campaigns/Spell Quest/Locations/7 Workshop.md"
+              }
             }
           },
           {
-            "id": "6c55f5d737865b72",
+            "id": "04d8729de9f89941",
             "type": "leaf",
             "state": {
               "type": "rpgm-creator-view",
@@ -158,17 +156,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "081d250006c1b46c",
+  "active": "c338df3827c103fe",
   "lastOpenFiles": [
-    "Campaigns/Spell Quest/Characters/Hubert Dresilkin.md",
+    "Monsters/Aarakocra.xml.md",
+    "Campaigns/Spell Quest/Locations/7 Workshop.md",
     "Campaigns/Spell Quest/Locations/The Red Keep.md",
-    "The Forgotten Hold v1.4.pdf",
-    "Images/The Forgottn Hold.png",
-    "Images/Pasted image 20230124204820.png",
+    "Campaigns/Spell Quest/Acts/Hunting Hazlik.md",
+    "Campaigns/Spell Quest/Adventures/While in Hazlan.md",
     "Campaigns/Spell Quest/Spell Quest.md",
-    "Campaigns/Spell Quest/Sessions/Feb-9-2023.md",
-    "Campaigns/Spell Quest/Subplots/The Gem.md",
-    "Campaigns/Spell Quest/Characters/Bombam Stormtoe.md",
-    "Campaigns/Spell Quest/Subplots/The Fool.md"
+    "Campaigns/Spell Quest/Subplots/The Knight.md",
+    "Campaigns/Spell Quest/Characters/Hubert Dresilkin.md",
+    "Campaigns/Spell Quest/Locations/9 Vault.md",
+    "Campaigns/Spell Quest/Locations/8 Maintenance Alcove.md"
   ]
 }

@@ -17,6 +17,12 @@ relationships:
   - type: "bidirectional"
     path: "Campaigns/Spell Quest/Clues/Hazlik and the Border.md"
     description: 
+  - type: "child"
+    path: "Campaigns/Spell Quest/Locations/8 Maintenance Alcove.md"
+    description: 
+  - type: "child"
+    path: "Campaigns/Spell Quest/Locations/9 Vault.md"
+    description: 
 ```
 ```RpgManager
 models: 
@@ -27,8 +33,6 @@ models:
     events: 
     clues: 
     locations: 
-      - relationship: "parent"
-        title: "Inside"
       - relationship: "child"
         title: "Contains"
       - relationship: 
@@ -52,3 +56,5 @@ positionInParent: 0
 [[Hazlik|]]
 [[Library Tarokka Deck|]]
 [[Hazlik and the Border|]]
+[[8 Maintenance Alcove|]]
+[[9 Vault|]]

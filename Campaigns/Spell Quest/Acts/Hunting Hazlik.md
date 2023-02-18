@@ -22,6 +22,10 @@ data:
   synopsis: 
   complete: false
   abtStage: 
+relationships: 
+  - type: "bidirectional"
+    path: "Campaigns/Spell Quest/Locations/The Red Keep.md"
+    description: 
 ```
 ```RpgManager
 models: 
@@ -57,3 +61,5 @@ parentId: "48e4be67-4a7e-4760-aed2-2f4e89d29ace"
 id: "04538682-51fc-4b79-ba68-3163ce2120c6"
 positionInParent: 1
 ```
+[[The Red Keep|]]
+[[Hunting Hazlik|]]

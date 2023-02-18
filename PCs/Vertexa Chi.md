@@ -1,2 +1,6 @@
 #Initiative
-https://docs.google.com/spreadsheets/d/15E49PPsWew_oYUwAU9Skotz0MqJDbhI2tBtq-G5u6N8/edit#gid=1750226729\
+https://docs.google.com/spreadsheets/d/1L7Y9F_349B7Rs9X7kKog5TBlxDZ7R4d2hXVFV1VgB8A/edit#gid=359784640
+
+# 2/8/2023
+Bad Dream:
+	Constantly being torn between parents and the seer, death and life. Towards end, parents reject my request for comfort and once returned to the seer, am embraced by her instead.
