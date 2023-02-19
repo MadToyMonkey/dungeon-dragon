@@ -1,6 +1,6 @@
 ---
 alias: []
-tags: []
+tags: [SpellQuest]
 ---
 ```RpgManagerData
 plot: 

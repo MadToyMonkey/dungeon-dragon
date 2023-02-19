@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15cc671a0b61cfa1",
+        "id": "c30aa18ccceb66af",
         "type": "tabs",
         "children": [
           {
-            "id": "c338df3827c103fe",
+            "id": "a432deb776b674e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Spell Quest/Locations/The Red Keep.md",
+                "file": "Campaigns/Spell Quest/Clues/Library Tarokka Deck.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Spell Quest/Locations/The Red Keep.md",
+                "file": "Campaigns/Spell Quest/Clues/Library Tarokka Deck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Spell Quest/Locations/The Red Keep.md",
+                "file": "Campaigns/Spell Quest/Clues/Library Tarokka Deck.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,20 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Spell Quest/Locations/The Red Keep.md"
+                "file": "Campaigns/Spell Quest/Clues/Library Tarokka Deck.md"
               }
-            }
-          },
-          {
-            "id": "08018d9439eadd62",
-            "type": "leaf",
-            "state": {
-              "type": "rpgm-creator-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -155,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c338df3827c103fe",
+  "active": "a432deb776b674e0",
   "lastOpenFiles": [
-    "Campaigns/Spell Quest/Locations/6 Holding Pen.md",
-    "Campaigns/Spell Quest/Locations/The Red Keep.md",
-    "Campaigns/Spell Quest/Locations/7 Workshop.md",
-    "The Forgotten Hold v1.4.pdf",
-    "Monsters/Aarakocra.xml.md",
-    "Campaigns/Spell Quest/Acts/Hunting Hazlik.md",
-    "Campaigns/Spell Quest/Adventures/While in Hazlan.md",
+    "Campaigns/Spell Quest/Sessions/Feb-9-2023.md",
+    "Campaigns/Spell Quest/Clues/Library Tarokka Deck.md",
+    "Campaigns/Spell Quest/Scenes/Traveling the Mists.md",
     "Campaigns/Spell Quest/Spell Quest.md",
+    "Campaigns/Spell Quest/Subplots/The Void.md",
+    "Campaigns/Spell Quest/Subplots/The Star.md",
+    "Campaigns/Spell Quest/Subplots/The Moon.md",
     "Campaigns/Spell Quest/Subplots/The Knight.md",
-    "Campaigns/Spell Quest/Characters/Hubert Dresilkin.md"
+    "Campaigns/Spell Quest/Subplots/The Gem.md",
+    "Campaigns/Spell Quest/Subplots/The Fool.md"
   ]
 }

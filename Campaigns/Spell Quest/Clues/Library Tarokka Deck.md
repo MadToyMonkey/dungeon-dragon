@@ -6,7 +6,7 @@ tags: [SpellQuest]
 data: 
   synopsis: "The first reading from this deck will give the PCs the idea to ask Hazlik about the Mists."
   complete: false
-  found: 
+  found: "2023-02-09"
 relationships: []
 ```
 ```RpgManager

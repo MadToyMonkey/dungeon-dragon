@@ -28439,5 +28439,5 @@
   "disableSRD": false,
   "tryToRenderLinks": true,
   "debug": true,
-  "notifiedOfFantasy": false
+  "notifiedOfFantasy": true
 }
