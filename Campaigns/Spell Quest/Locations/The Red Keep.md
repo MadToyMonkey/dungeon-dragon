@@ -23,6 +23,12 @@ relationships:
   - type: "child"
     path: "Campaigns/Spell Quest/Locations/9 Vault.md"
     description: 
+  - type: "child"
+    path: "Campaigns/Spell Quest/Locations/7 Workshop.md"
+    description: 
+  - type: "child"
+    path: "Campaigns/Spell Quest/Locations/6 Holding Pen.md"
+    description: 
 ```
 ```RpgManager
 models: 
@@ -58,3 +64,5 @@ positionInParent: 0
 [[Hazlik and the Border|]]
 [[8 Maintenance Alcove|]]
 [[9 Vault|]]
+[[7 Workshop|]]
+[[6 Holding Pen|]]

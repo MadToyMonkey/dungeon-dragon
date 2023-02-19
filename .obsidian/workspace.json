@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Spell Quest/Locations/7 Workshop.md",
+                "file": "Campaigns/Spell Quest/Locations/The Red Keep.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Spell Quest/Locations/7 Workshop.md",
+                "file": "Campaigns/Spell Quest/Locations/The Red Keep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Spell Quest/Locations/7 Workshop.md",
+                "file": "Campaigns/Spell Quest/Locations/The Red Keep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Spell Quest/Locations/7 Workshop.md"
+                "file": "Campaigns/Spell Quest/Locations/The Red Keep.md"
               }
             }
           },
           {
-            "id": "04d8729de9f89941",
+            "id": "08018d9439eadd62",
             "type": "leaf",
             "state": {
               "type": "rpgm-creator-view",
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,15 +157,15 @@
   },
   "active": "c338df3827c103fe",
   "lastOpenFiles": [
-    "Monsters/Aarakocra.xml.md",
-    "Campaigns/Spell Quest/Locations/7 Workshop.md",
+    "Campaigns/Spell Quest/Locations/6 Holding Pen.md",
     "Campaigns/Spell Quest/Locations/The Red Keep.md",
+    "Campaigns/Spell Quest/Locations/7 Workshop.md",
+    "The Forgotten Hold v1.4.pdf",
+    "Monsters/Aarakocra.xml.md",
     "Campaigns/Spell Quest/Acts/Hunting Hazlik.md",
     "Campaigns/Spell Quest/Adventures/While in Hazlan.md",
     "Campaigns/Spell Quest/Spell Quest.md",
     "Campaigns/Spell Quest/Subplots/The Knight.md",
-    "Campaigns/Spell Quest/Characters/Hubert Dresilkin.md",
-    "Campaigns/Spell Quest/Locations/9 Vault.md",
-    "Campaigns/Spell Quest/Locations/8 Maintenance Alcove.md"
+    "Campaigns/Spell Quest/Characters/Hubert Dresilkin.md"
   ]
 }
