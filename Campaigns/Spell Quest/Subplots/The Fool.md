@@ -20,7 +20,7 @@ plot:
     change: 
 data: 
   synopsis: " - CARD HAS BEEN DRAWN\n - Tarot: 0. The Fool\n - Playing: Joker (w/ Trademark)\n - Tarokka: Charlatan"
-  complete: false
+  complete: true
 ```
 ```RpgManager
 models: 

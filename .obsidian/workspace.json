@@ -13,9 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Soulknife.md",
+                "file": "Campaigns/Spell Quest/Scenes/Fighting to find Hazlik.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "64c695844c824a18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monsters/Hazlik Monster.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01b0cf601d0a74e7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Modules/The Forgotten Hold v1.4.pdf"
               }
             }
           }
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Soulknife.md",
+                "file": "Campaigns/Spell Quest/Scenes/Fighting to find Hazlik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Soulknife.md",
+                "file": "Campaigns/Spell Quest/Scenes/Fighting to find Hazlik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +147,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Soulknife.md"
+                "file": "Campaigns/Spell Quest/Scenes/Fighting to find Hazlik.md"
               }
+            }
+          },
+          {
+            "id": "241e32303ffa392a",
+            "type": "leaf",
+            "state": {
+              "type": "rpgm-creator-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -150,15 +180,15 @@
   },
   "active": "6e26fcc1d6621392",
   "lastOpenFiles": [
-    "Classes/Rogue.md",
-    "PCs/Nibosa Milnor.md",
-    "Campaigns/Spell Quest/Locations/9 Vault.md",
-    "HubertAndTy.pdf",
-    "Campaigns/Spell Quest/Sessions/Half Session 2-19-2023.md",
-    "Campaigns/Spell Quest/Locations/The Red Keep.md",
-    "Campaigns/Spell Quest/Locations/8 Maintenance Alcove.md",
-    "Campaigns/Spell Quest/Locations/7 Workshop.md",
-    "Campaigns/Spell Quest/Characters/Tyraxis Silverscale.md",
-    "Campaigns/Spell Quest/Characters/Hubert Dresilkin.md"
+    "Monsters/Hazlik Monster.md",
+    "Campaigns/Spell Quest/Scenes/Fighting to find Hazlik.md",
+    "Modules/The Forgotten Hold v1.4.pdf",
+    "Campaigns/Spell Quest/Acts/Through the Mists.md",
+    "Campaigns/Spell Quest/Characters/The Dragon Guard.md",
+    "Campaigns/Red Star Rising/The Boy on the Branch.md",
+    "Campaigns/Red Star Rising/The Butcher Farm.md",
+    "Campaigns/Spell Quest/Sessions/Pasted image 20230220190330.png",
+    "Campaigns/Spell Quest/Acts/Hunting Hazlik.md",
+    "Campaigns/Spell Quest/Acts/Hazlik Gotta Go.md"
   ]
 }
