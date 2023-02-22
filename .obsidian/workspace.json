@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c30aa18ccceb66af",
+        "id": "787b72d3e82ea7f3",
         "type": "tabs",
         "children": [
           {
-            "id": "a432deb776b674e0",
+            "id": "6e26fcc1d6621392",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Spell Quest/Clues/Library Tarokka Deck.md",
+                "file": "Classes/Soulknife.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Spell Quest/Clues/Library Tarokka Deck.md",
+                "file": "Classes/Soulknife.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Spell Quest/Clues/Library Tarokka Deck.md",
+                "file": "Classes/Soulknife.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Spell Quest/Clues/Library Tarokka Deck.md"
+                "file": "Classes/Soulknife.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a432deb776b674e0",
+  "active": "6e26fcc1d6621392",
   "lastOpenFiles": [
-    "Campaigns/Spell Quest/Sessions/Feb-9-2023.md",
-    "Campaigns/Spell Quest/Clues/Library Tarokka Deck.md",
-    "Campaigns/Spell Quest/Scenes/Traveling the Mists.md",
-    "Campaigns/Spell Quest/Spell Quest.md",
-    "Campaigns/Spell Quest/Subplots/The Void.md",
-    "Campaigns/Spell Quest/Subplots/The Star.md",
-    "Campaigns/Spell Quest/Subplots/The Moon.md",
-    "Campaigns/Spell Quest/Subplots/The Knight.md",
-    "Campaigns/Spell Quest/Subplots/The Gem.md",
-    "Campaigns/Spell Quest/Subplots/The Fool.md"
+    "Classes/Rogue.md",
+    "PCs/Nibosa Milnor.md",
+    "Campaigns/Spell Quest/Locations/9 Vault.md",
+    "HubertAndTy.pdf",
+    "Campaigns/Spell Quest/Sessions/Half Session 2-19-2023.md",
+    "Campaigns/Spell Quest/Locations/The Red Keep.md",
+    "Campaigns/Spell Quest/Locations/8 Maintenance Alcove.md",
+    "Campaigns/Spell Quest/Locations/7 Workshop.md",
+    "Campaigns/Spell Quest/Characters/Tyraxis Silverscale.md",
+    "Campaigns/Spell Quest/Characters/Hubert Dresilkin.md"
   ]
 }
