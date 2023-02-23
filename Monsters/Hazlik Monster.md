@@ -23,7 +23,7 @@ damage_resistances: lightning, poison, bludgeoning, piercing, and slashing from
 condition_immunities: charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 senses: darkvision 60 ft.
 languages: understands the languages of its creator but can't speak
-cr: "5"
+cr: "3"
 traits:
   - name: Berserk
     desc: Whenever the golem starts its turn with 40 hit points or fewer, roll a d6.

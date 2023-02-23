@@ -28,7 +28,9 @@ models:
 ---
 ### Non Player Character Notes
  - 
-
+```statblock
+monster: Mage
+```
 ### Non Player Character Story
  - 
 

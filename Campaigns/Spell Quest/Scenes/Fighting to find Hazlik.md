@@ -5,7 +5,7 @@ tags: []
 ```RpgManagerData
 data: 
   synopsis: "After Hazlik cowardly teleported away, the party is now trying to find him, again. The party split, taking rests at staggered times. But now is time for the grand reunion, but also the union of both halves' foes."
-  complete: false
+  complete: true
   sessionId: 0
   action: 
   trigger: 
@@ -15,6 +15,10 @@ data:
   duration: 0
   durations: []
   storyCircleStage: 
+relationships: 
+  - type: "bidirectional"
+    path: "Campaigns/Spell Quest/NonPlayerCharacters/Hazlik.md"
+    description: 
 ```
 ```RpgManager
 models: 
@@ -22,16 +26,17 @@ models:
 ```
 ---
 ### Scene Notes
- - 
+ - Session will be worth 1300 /player if all enemies are defeated (including Hazlik, XP is adjusted for 1/2 defeating Hazlik already)
 ```statblock
 monster: Hazlik Flesh Golem
 ```
 
 ---
 ```statblock
-monster: Water Elemental
+monster: Water Weird
 name: Water Boys x2
 ```
+
 ---
 ```RpgManager
 models: 
@@ -62,3 +67,4 @@ campaignId: "1c445af5-36d3-42b4-9873-d00d859f5aff"
 parentId: "04538682-51fc-4b79-ba68-3163ce2120c6"
 positionInParent: 5
 ```
+[[Hazlik|]]
