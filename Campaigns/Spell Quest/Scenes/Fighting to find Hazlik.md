@@ -1,6 +1,6 @@
 ---
 alias: []
-tags: []
+tags: [SpellQuest]
 ---
 ```RpgManagerData
 data: 
@@ -67,4 +67,4 @@ campaignId: "1c445af5-36d3-42b4-9873-d00d859f5aff"
 parentId: "04538682-51fc-4b79-ba68-3163ce2120c6"
 positionInParent: 5
 ```
-[[Hazlik|]]
+
