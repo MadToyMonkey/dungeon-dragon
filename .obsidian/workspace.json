@@ -8,24 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e26fcc1d6621392",
+            "id": "633213450a641301",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Spell Quest/Scenes/Fighting to find Hazlik.md",
+                "file": "PCs/Vertexa Chi.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01b0cf601d0a74e7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Modules/The Forgotten Hold v1.4.pdf"
+                "source": true
               }
             }
           }
@@ -58,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DhawntaysInferno",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Spell Quest/Scenes/Fighting to find Hazlik.md",
+                "file": "PCs/Vertexa Chi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/Spell Quest/Scenes/Fighting to find Hazlik.md",
+                "file": "PCs/Vertexa Chi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,12 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Spell Quest/Scenes/Fighting to find Hazlik.md"
+                "file": "PCs/Vertexa Chi.md"
               }
+            }
+          },
+          {
+            "id": "9477beb126c46f4f",
+            "type": "leaf",
+            "state": {
+              "type": "rpgm-creator-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -158,17 +156,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e26fcc1d6621392",
+  "active": "633213450a641301",
   "lastOpenFiles": [
+    "Images/EvanoraBaydew.png",
+    "Images/EvanoraBaydew.png.crdownload",
+    "Images/VertexaToken.png",
+    "Images/VertexaToken.png.crdownload",
+    "Campaigns/Spell Quest/Acts/To Start with.md",
+    "Campaigns/Spell Quest/Adventures/Light of Xaryxis.md",
+    "PCs/Vertexa Chi.md",
+    "Images/VertexaBaydew.png",
+    "Images/VertexaBaydew.png.crdownload",
+    "Monsters/Deep Crow.md",
+    "Campaigns/Spell Quest/Characters/Hubert Dresilkin.md",
     "Modules/The Forgotten Hold v1.4.pdf",
+    "Handouts/~warvenWaterSystem.tmp",
+    "Handouts/DwarvenWaterSystem.pdf",
+    "Handouts/DwarvenWaterSystem.docx",
+    "Handouts",
+    "New folder",
+    "Campaigns/Spell Quest/Acts/Saviors of the Multiverse.md",
+    "Campaigns/Spell Quest/Acts/Chaos in Doomspace.md",
+    "Campaigns/Spell Quest/Acts/Terrors of the Void.md",
+    "Campaigns/Spell Quest/Acts/Seeds of Destruction.md",
+    "Campaigns/Spell Quest/Scenes/Astral Rain.md",
+    "Campaigns/Spell Quest/Spell Quest.md",
+    "Campaigns/Spell Quest/Locations/Hazlan.md",
+    "PCs/Quintessa Joy.md",
+    "Images/QuintessaLavendarToken.png",
+    "Images/QuintessaLavendarToken.png.crdownload",
+    "Images/QuintessaLavendar.png",
+    "Images/QuintessaToken.png",
+    "Images/Quintessa.png",
+    "3-2-2023.md",
+    "Campaigns/Red Star Rising/Foulest Spirits.md",
+    "Images/MoonshineElemental.png",
+    "Images/Distiller.png",
+    "Images/LylaToken.png",
+    "Campaigns/Red Star Rising/The Butcher House.md",
+    "Campaigns/Red Star Rising/The Butcher Farm.md",
+    "Classes/Soulknife.md",
+    "PCs/Nibosa Milnor.md",
+    "Images/Handout82.png",
+    "Campaigns/Red Star Rising/Darkest Dream.md",
     "Campaigns/Spell Quest/Scenes/Fighting to find Hazlik.md",
     "Monsters/Hazlik Monster.md",
     "Campaigns/Spell Quest/NonPlayerCharacters/Hazlik.md",
     "Campaigns/Spell Quest/Characters/Tyraxis Silverscale.md",
-    "Campaigns/Spell Quest/Locations/The Red Keep.md",
-    "Campaigns/Spell Quest/Locations/Dungeon of the Red Rise.md",
-    "Campaigns/Spell Quest/Acts/Through the Mists.md",
-    "Campaigns/Spell Quest/Characters/The Dragon Guard.md",
-    "Campaigns/Red Star Rising/The Boy on the Branch.md"
+    "Campaigns/Spell Quest/Locations/The Red Keep.md"
   ]
 }

@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview",
-  "showFrontmatter": true
+  "defaultViewMode": "source",
+  "showFrontmatter": true,
+  "livePreview": false
 }
