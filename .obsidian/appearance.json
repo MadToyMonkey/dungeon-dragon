@@ -1,3 +1,5 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "Courier New",
+  "translucency": false
 }

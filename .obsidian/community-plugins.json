@@ -1,4 +1,8 @@
 [
   "obsidian-5e-statblocks",
-  "rpg-manager"
+  "buttons",
+  "dataview",
+  "obsidian-leaflet-plugin",
+  "quickadd",
+  "templater-obsidian"
 ]

@@ -4,22 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "787b72d3e82ea7f3",
+        "id": "0d733e9a90b7d10a",
         "type": "tabs",
         "children": [
           {
-            "id": "633213450a641301",
+            "id": "dee4dc362788e82c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs/Vertexa Chi.md",
+                "file": "campaigns/TTRPGs Games Index.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1ef8cd02f75f68e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "campaigns/qualis/World.md",
                 "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caf01ad15ad68d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "campaigns/qualis/001_20231004.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DhawntaysInferno",
+                "query": "tag:#inbox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,6 +90,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2e3ef99763d63d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -85,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCs/Vertexa Chi.md",
+                "file": "campaigns/qualis/001_20231004.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCs/Vertexa Chi.md",
+                "file": "campaigns/qualis/001_20231004.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,25 +156,37 @@
             }
           },
           {
-            "id": "061a2f3c7e9f1380",
+            "id": "24d2f4c3a4e2c431",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "all-properties",
               "state": {
-                "file": "PCs/Vertexa Chi.md"
+                "sortOrder": "frequency"
               }
             }
           },
           {
-            "id": "9477beb126c46f4f",
+            "id": "b24218ee6c256dbb",
             "type": "leaf",
             "state": {
-              "type": "rpgm-creator-view",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "campaigns/qualis/001_20231004.md"
+              }
+            }
+          },
+          {
+            "id": "7c28e7b29681546a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "campaigns/qualis/001_20231004.md"
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -147,62 +195,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "rpg-manager:RPG Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "633213450a641301",
+  "active": "caf01ad15ad68d0d",
   "lastOpenFiles": [
-    "Images/EvanoraBaydew.png",
-    "Images/EvanoraBaydew.png.crdownload",
-    "Images/VertexaToken.png",
-    "Images/VertexaToken.png.crdownload",
-    "Campaigns/Spell Quest/Acts/To Start with.md",
-    "Campaigns/Spell Quest/Adventures/Light of Xaryxis.md",
-    "PCs/Vertexa Chi.md",
-    "Images/VertexaBaydew.png",
-    "Images/VertexaBaydew.png.crdownload",
-    "Monsters/Deep Crow.md",
-    "Campaigns/Spell Quest/Characters/Hubert Dresilkin.md",
-    "Modules/The Forgotten Hold v1.4.pdf",
-    "Handouts/~warvenWaterSystem.tmp",
-    "Handouts/DwarvenWaterSystem.pdf",
-    "Handouts/DwarvenWaterSystem.docx",
-    "Handouts",
-    "New folder",
-    "Campaigns/Spell Quest/Acts/Saviors of the Multiverse.md",
-    "Campaigns/Spell Quest/Acts/Chaos in Doomspace.md",
-    "Campaigns/Spell Quest/Acts/Terrors of the Void.md",
-    "Campaigns/Spell Quest/Acts/Seeds of Destruction.md",
-    "Campaigns/Spell Quest/Scenes/Astral Rain.md",
-    "Campaigns/Spell Quest/Spell Quest.md",
-    "Campaigns/Spell Quest/Locations/Hazlan.md",
-    "PCs/Quintessa Joy.md",
-    "Images/QuintessaLavendarToken.png",
-    "Images/QuintessaLavendarToken.png.crdownload",
-    "Images/QuintessaLavendar.png",
-    "Images/QuintessaToken.png",
-    "Images/Quintessa.png",
-    "3-2-2023.md",
-    "Campaigns/Red Star Rising/Foulest Spirits.md",
-    "Images/MoonshineElemental.png",
-    "Images/Distiller.png",
-    "Images/LylaToken.png",
-    "Campaigns/Red Star Rising/The Butcher House.md",
-    "Campaigns/Red Star Rising/The Butcher Farm.md",
-    "Classes/Soulknife.md",
-    "PCs/Nibosa Milnor.md",
-    "Images/Handout82.png",
-    "Campaigns/Red Star Rising/Darkest Dream.md",
-    "Campaigns/Spell Quest/Scenes/Fighting to find Hazlik.md",
-    "Monsters/Hazlik Monster.md",
-    "Campaigns/Spell Quest/NonPlayerCharacters/Hazlik.md",
-    "Campaigns/Spell Quest/Characters/Tyraxis Silverscale.md",
-    "Campaigns/Spell Quest/Locations/The Red Keep.md"
+    "campaigns/qualis/World.md",
+    "campaigns/qualis/001_20231004.md",
+    "campaigns/qualis/001_20231003.md",
+    "campaigns/qualis/Nibosa Milnor.md",
+    "templates/new ttrpg system.md",
+    "templates/stats-5e.md",
+    "campaigns/TTRPGs Games Index.md",
+    "campaigns/qualis",
+    "campaigns/spellQuest/001_20230928.md",
+    "campaigns/spellQuest/scene/Oh Momma.md",
+    "campaigns/spellQuest/scene/Ch5 Living on the Edge.md",
+    "campaigns/spellQuest/scene/Adrift.md",
+    "campaigns/spellQuest/scene/The Tower.md",
+    "campaigns/spellQuest/npc/Large Luigi.md",
+    "Happy Beholder.md",
+    "campaigns/spellQuest/World.md",
+    "campaigns/spellQuest/scene/Welcome to the Rock.md",
+    "campaigns/spellQuest/scene/To the Edge of Wildspace.md",
+    "campaigns/spellQuest/scene/Ruthless Reigar.md",
+    "campaigns/spellQuest/scene/Negotiation with Fel.md",
+    "campaigns/spellQuest/scene/Ch4 A Friend Indeed.md",
+    "campaigns/spellQuest/scene/Astral Revenge.md",
+    "campaigns/spellQuest/pc/Faelynn.md",
+    "campaigns/spellQuest/npc/Topolah.md",
+    "campaigns/spellQuest/npc/Starbough.md",
+    "campaigns/spellQuest/npc/Hastain.md",
+    "campaigns/spellQuest/npc/Flinch.md",
+    "campaigns/spellQuest/location",
+    "images/Pasted image 20230930221336.png",
+    "images/Pasted image 20230930215433.png",
+    "images/Pasted image 20230930215110.png",
+    "images/Pasted image 20230930211511.png",
+    "images/Pasted image 20230930210340.png",
+    "images/Pasted image 20230930210124.png",
+    "images/Pasted image 20230930210035.png",
+    "images/Incapacitated.jpg",
+    "images/Grappled.jpg",
+    "images/Frightened.jpg",
+    "campaigns/scene",
+    "images",
+    "campaigns/spellQuest/scene",
+    "campaigns/spellQuest/npc",
+    "campaigns/spellQuest/pc",
+    "campaigns/spellQuest",
+    "ttrpg/spellQuests",
+    "ttrpg",
+    "Untitled.canvas"
   ]
 }

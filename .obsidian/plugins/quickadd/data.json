@@ -1,0 +1,222 @@
+{
+  "choices": [
+    {
+      "id": "f2736a51-1f82-4472-a242-99df1b2843ad",
+      "name": "Template - Add TTRPG world",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/world.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "campaigns/{{VALUE}}/World"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "d4e8818e-75be-4742-abc7-83b5262c63a2",
+      "name": "Macro - Add session-gm",
+      "type": "Macro",
+      "command": true,
+      "macroId": "28a79b51-c7bb-495f-bc28-20009060157b"
+    },
+    {
+      "id": "f581b1bc-dcc5-4abb-b705-929835fdedea",
+      "name": "Template - Add TTRPG scene",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/scene.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "campaigns/{{VALUE:campaign}}/scene/{{VALUE:scene}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "fbc36e24-4755-4c83-92f5-d120746a7bc5",
+      "name": "Template - Add TTRPG npc",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/npc.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "campaigns/{{VALUE:campaign}}/npc/{{VALUE:npc}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "3e7d210b-75d9-4257-bb60-b057e17dda2c",
+      "name": "Macro - Add session-pc",
+      "type": "Macro",
+      "command": true,
+      "macroId": "5541da2a-ebd9-4d64-83d2-571eda1970b5"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Create session-gm",
+      "id": "28a79b51-c7bb-495f-bc28-20009060157b",
+      "commands": [
+        {
+          "name": "getThisGameFilename",
+          "type": "UserScript",
+          "id": "46b7e950-9172-4cd8-8878-63cdea0fa117",
+          "path": "scripts/getThisGameFilename.js",
+          "settings": {}
+        },
+        {
+          "name": "Create file",
+          "type": "NestedChoice",
+          "id": "79bcea78-d5ff-4be4-91dd-27a4d2d2d38f",
+          "choice": {
+            "id": "40a00b48-48ac-4d11-af98-c977db59bb51",
+            "name": "Create file",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/session-gm.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:thisGameFilename}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "{{VALUE:folderName}}"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Create session-pc",
+      "id": "5541da2a-ebd9-4d64-83d2-571eda1970b5",
+      "commands": [
+        {
+          "name": "getThisGameFilename",
+          "type": "UserScript",
+          "id": "56900de7-b350-4f9f-8f2c-ca73b4efbb57",
+          "path": "scripts/getThisGameFilename.js",
+          "settings": {}
+        },
+        {
+          "name": "Create File",
+          "type": "NestedChoice",
+          "id": "b42cd7a8-b1cf-44dd-96c4-0ac0cbb0b94e",
+          "choice": {
+            "id": "62992a49-be9a-4032-955d-6c80b75e2095",
+            "name": "Create File",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/session-player.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:thisGameFilename}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "{{VALUE:folderName}}"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "templates/",
+  "announceUpdates": true,
+  "version": "1.3.0",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}
